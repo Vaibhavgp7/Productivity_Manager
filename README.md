@@ -1,16 +1,23 @@
-# login_page
+# Productivity Manager
 
-A new Flutter project.
+A simple FLutter app that will help users to manage their taks and schedule reminders.
 
-## Getting Started
+Built with Dart, Flutter and Firebase and sqflite.
 
-This project is a starting point for a Flutter application.
+# Android Screenshots of the Application
 
-A few resources to get you started if this is your first Flutter project:
+<img src="Screenshots/ss_1.jpg" height="300em" /> <img src="Screenshots/ss_2.jpg" height="300em" /> <img src="Screenshots/ss_3.jpg" height="300em" /> <img src="Screenshots/ss_4.jpg" height="300em" /> <img src="Screenshots/ss_5.jpg" height="300em" /> <img src="Screenshots/ss_6.jpg" height="300em" /> <img src="Screenshots/ss_7.jpg" height="300em" /> <img src="Screenshots/ss_8.jpg" height="300em" /> <img src="Screenshots/ss_9.jpg" height="300em" /> <img src="Screenshots/ss_10.jpg" height="300em" /> <img src="Screenshots/ss_11.jpg" height="300em" /> 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Application Features
+* Create New Tasks from the Event button.
+* Locally store created Task using database file.
+* Fetch and Display InComplete Tasks from the locale db file.
+* Mark a Task as Done and then delete it.
+* Can schedule a reminder from the Reminder button.
+* Set the time.
+  
+---
+## Note about the source code
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Please note that I was trying my hands on Flutter. Therefore, there are still things which are not fully implemented or tested.
+Suggestions and Improvements are most Welcomed!  :)
