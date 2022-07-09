@@ -6,7 +6,7 @@ Built with Dart, Flutter, Firebase and sqflite.
 
 # Android Screenshots of the Application
 
-<img src="Screenshots/ss_1.jpg" height="300em" /> <img src="Screenshots/ss_2.jpg" height="300em" /> <img src="Screenshots/ss_3.jpg" height="300em" /> <img src="Screenshots/ss_4.jpg" height="300em" /> <img src="Screenshots/ss_5.jpg" height="300em" /> <img src="Screenshots/ss_6.jpg" height="300em" /> <img src="Screenshots/ss_7.jpg" height="300em" /> <img src="Screenshots/ss_8.jpg" height="300em" /> <img src="Screenshots/ss_9.jpg" height="300em" /> <img src="Screenshots/ss_10.jpg" height="300em" /> <img src="Screenshots/ss_11.jpg" height="300em" /> 
+<img src="Screenshots/ss_1.jpg" height="300em" /> <img src="Screenshots/ss_2.jpg" height="300em" /> <img src="Screenshots/ss_4.jpg" height="300em" /> <img src="Screenshots/ss_10.jpg" height="300em" /> <img src="Screenshots/ss_11.jpg" height="300em" /> 
 
 ## Application Features
 * Create New Tasks from the Event button.
