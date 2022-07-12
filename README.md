@@ -1,6 +1,6 @@
 # Productivity Manager
 
-A simple FLutter app that will help users to manage their taks and schedule reminders.
+A simple FLutter app that will help users to manage their tasks and schedule reminders.
 
 Built with Dart, Flutter, Firebase and sqflite (SQLite plugin for Flutter).
 
